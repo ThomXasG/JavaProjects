@@ -1,0 +1,9 @@
+ec\edu\charge\daofactory\FactoryMain.class
+ec\edu\charge\daofactory\dao\ProductoDAO.class
+ec\edu\charge\daofactory\DBFactory.class
+ec\edu\charge\daofactory\DBType.class
+ec\edu\charge\daofactory\DAOFactory.class
+ec\edu\charge\daofactory\entity\Product.class
+ec\edu\charge\daofactory\impl\IDBAdapter.class
+ec\edu\charge\daofactory\impl\MySQLDBAdapter.class
+ec\edu\charge\daofactory\impl\PostgreDBAdapter.class

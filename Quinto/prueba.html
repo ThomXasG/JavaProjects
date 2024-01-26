@@ -1,0 +1,86 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+<script>
+var cadena='("mensaje":"Hola mundo")';
+console.log(cadena);
+
+
+
+var numero=20;
+console.log(numero);
+
+var objeto='( "nombre":"carlos","apellido" :"ortiz","edad" :15)'
+   console.log(objeto);
+
+var arreglos=["Lunes","Marte","Miercoles","Jueves","Viernes"];
+console.log(arreglos)
+
+var bol=true;
+console.log(bol);   
+
+//combinacion de tipos de datos 
+
+var persona=[{
+    "nombre":"carlos",
+    "apellido" :"ortiz",
+    "edad" :15,
+    "trabajo":true,
+    "colores_favoritos":["Azul","Rojo"],
+    "educacion":{
+    "Primaria":"La salle",
+    "Secundaria" :"San PIO X",
+    "Universidad" :"UTA"
+    },
+    "genero":"Masculino"
+}]
+
+console.log(persona[0].colores_favoritos[0])
+
+//parse String json a objeto 
+
+
+console.clear();
+
+var cadena1='{"mensaje":"Hola mundo"}';
+var objetojason=JSON.parse(cadena1);
+console.log(objetojason);
+
+// stringify convertir un objeto javascript a JSON de texto
+
+
+var objeto1='{"nombre":"carlos","apellido" :"ortiz","edad" :15}';
+var objs=JSON.stringify(objeto1);
+console.log(objs);
+
+
+//convertir un Array a JSON
+var arreglos1=["Lunes","Marte","Miercoles","Jueves","Viernes"];
+var arregJSOn=JSON.stringify(arreglos1)
+
+console.log(arregJSOn)
+//coonvertir de JSON a aray
+var array3=JSON.parse(arregJSOn);
+console.log(array3)
+
+//de jSon a numero
+console.clear;
+var num='{"numero":15}';
+
+var numerojs=JSON.parse(num);
+
+console.log(numerojs);
+
+console.clear()
+var arayys ='["lunes","martes"]';
+var transfor=JSON.parse(arayys);
+console.log(transfor);
+
+
+console.clear();
+
+</script>        
+    </body>
+</html>

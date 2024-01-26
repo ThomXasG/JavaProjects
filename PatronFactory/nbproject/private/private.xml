@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/FigureType.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/FigureManager.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/Square.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/Rectangle.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/FigureCreator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/RectangleCreator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/MainFigure.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/Circle.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/CircleCreator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/FigureManagerFactory.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/AppFigure.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/SquareCreator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/creator/TriangleCreator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/Triangle.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/PatronFactory/src/ec/edu/charge/factory/Figure.java</file>
+        </group>
+    </open-files>
+</project-private>

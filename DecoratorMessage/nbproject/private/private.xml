@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/decoradores/MensajeDecorador.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/mensaje/IMessage.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/mensaje/MensajeTexto.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/mensaje/MensajeCliente.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/main/MainMensaje.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/decoradores/EncryptMensajeDecorator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/decoradores/XMLMensajeDecorator.java</file>
+            <file>file:/C:/Users/joelv/OneDrive/Documents/NetBeansProjects/DecoratorMessage/src/ec/edu/charge/decorator/decoradores/SOAPMensajeDecorator.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,7 @@
+{
+ "nombre" :"Edison",
+ "apellido" :"Ortiz",
+ "edad":21,
+ "Educacion": [{"Primaria":"La salle" ,"Secundaria":"PIOX"}]
+
+}
